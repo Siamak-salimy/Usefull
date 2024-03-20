@@ -1,4 +1,6 @@
 # Usefull
-In this repository, you can find useful resources in the field of computer science, machine learning, interviews and any other resource that I found useful. </br>
-I hope it is useful for you.
+In this Repo, you'll discover valuable assets within the field of computer science, machine learning, interviews and any other asset that I found valuable.
+I trust it 
 
+
+ 
